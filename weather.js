@@ -1,4 +1,4 @@
-const key = "a7aad93487648972caab116633b0d6e4";
+const key = "";
 
 async function search() {
   const phrase = document.querySelector('input[type="text"]').value;
